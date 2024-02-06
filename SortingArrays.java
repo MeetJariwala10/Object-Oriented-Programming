@@ -6,7 +6,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class p2 
+public class SortingArrays 
 {
     public static void main(String args[]) 
     {
