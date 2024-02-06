@@ -30,7 +30,7 @@ class StaticDemo
     }
 }
 
-public class p10 
+public class p1 
 {
     public static void main(String[] args) 
     {
