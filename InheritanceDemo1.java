@@ -72,7 +72,7 @@ class Bowler extends CricketPlayer
     }
 }
 
-public class p11_2
+public class InheritanceDemo1
 {
     public static void main(String[] args) 
     {
