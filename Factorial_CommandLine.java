@@ -3,7 +3,7 @@
 
 /* Write a program to find the factorial of a given number. Take the number through the command line argument. */
 
-public class p4 
+public class Factorial_CommandLine
 {
     public static void main(String[] args) 
     {
